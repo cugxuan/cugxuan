@@ -1,6 +1,4 @@
-# Hi
-
-- 😄 Pronouns: 泫 | cugxuan
+- 😄 Name: 泫 | cugxuan
 - 😆 See my blog: [Xuan's blog](https://blog.cugxuan.cn)
 - 📫 Reach me: cugxuan@qq.com
 - 🔭 I’m currently working on [GONEList](https://github.com/cugxuan/gonelist)
