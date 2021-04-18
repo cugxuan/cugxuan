@@ -1,6 +1,6 @@
 - 😄 Name: 泫 | cugxuan
 - 😄 公众号：泫言
-- 😆 See my blog: [Xuan's blog](https://blog.cugxuan.cn)
+- 😆 See my blog: [泫言](https://blog.cugxuan.cn)
 - 📫 Reach me: cugxuan@qq.com
 - 🔭 I’m currently working on [GONEList](https://github.com/cugxuan/gonelist)
 - 🌱 I’m currently learning Golang
