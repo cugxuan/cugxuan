@@ -1,10 +1,8 @@
 - 😄 Name: 泫 | cugxuan
 - 😄 公众号：泫言
+- 🔭 My Site: [cugxuan](https://cugxuan.cn)
 - 😆 See my blog: [泫言](https://blog.cugxuan.cn)
 - 📫 Reach me: cugxuan@qq.com
-- 🔭 I’m currently working on [GONEList](https://github.com/cugxuan/gonelist)
-- 🌱 I’m currently learning Golang
-- 💬 Ask me about go
 
 <img src="search-wechat.png" width="50%" alt="search-wechat.png" />
 
